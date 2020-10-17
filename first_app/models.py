@@ -24,4 +24,4 @@ class AccessRecord(models.Model):
     return str(self.date)
 
 
-# Create your models here.
+
